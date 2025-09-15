@@ -37,7 +37,7 @@ It helps homeowners, buyers, and real estate consultants to:
 ## 🚀 How to Use
 1. Clone repo  
    ```bash
-   git clone https://github.com/<username>/precision-property-insights.git
+   git clone https://github.com/Ashutoshgupta80/Precision-Property-Insights.git
 ---
 ## 📫 Contact
 **Ashutosh Gupta**  
