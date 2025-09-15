@@ -32,7 +32,12 @@ It helps homeowners, buyers, and real estate consultants to:
 
 ## 📊 Key Results  
 - Random Forest model achieved **88% accuracy** for property quality prediction.  
-- Power BI dashboard provides insights on property price trends and renovation impact.  
+- Power BI dashboard provides insights on property price trends and renovation impact.
+---
+## 🚀 How to Use
+1. Clone repo  
+   ```bash
+   git clone https://github.com/<username>/precision-property-insights.git
 ---
 ## 📫 Contact
 **Ashutosh Gupta**  
